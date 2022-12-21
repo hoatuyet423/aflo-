@@ -14,12 +14,12 @@ Overview
 
 ### App Evaluation
 
-Category: Productivity / LifeStyle
-Mobile: Pending- 
-Story: Allows student to increase productivity by applying the point system
-Market: Mainly targetted students but can also be used by anyone
-Habit: This app coule be used as often as a user wants.
-Scope: All Students 
+* Category: Productivity / LifeStyle
+* Mobile: Pending- 
+* Story: Allows student to increase productivity by applying the point system
+* Market: Mainly targetted students but can also be used by anyone
+* Habit: This app coule be used as often as a user wants.
+* Scope: All Students 
 
 ## Product Spec
 
@@ -27,14 +27,14 @@ Scope: All Students
 
 Required Must-have Stories
 
-[] Log in
-[] Register
-[] Point counting
-[] calendar
-[] add task to calendar
-[] user profile
-[] add, change, delete plan
-[] view other day/week/month
+- [ ] Log in
+- [ ] Register
+- [ ] Point counting
+- [ ] calendar
+- [ ] add task to calendar
+- [ ] user profile
+- [ ] add, change, delete plan
+- [ ] view other day/week/month
  
 Optional Nice-to-have Stories
 
