@@ -2,11 +2,10 @@
 
 ## Table of Contents
 
-Overview
-Product Spec
-Wireframes
-Schema
-Overview
+1. [Overview](#Overview)
+1. [Product Spec](#Product-Spec)
+1. [Wireframes](#Wireframes)
+
 
 ### Description
 
