@@ -62,7 +62,7 @@ Flow Navigation (Screen to Screen)
 Sign up -> Account creation if no log in is availble
 Login/Register -> Homepage/Calendar
 
-4. Wireframes
+## Wireframes
 
 --Pending
 
